@@ -1,7 +1,7 @@
 ## Vitor Lima
 - 🌱 Desenvolvedor Java
--📚 Estudando JavaScript e Node JS
--⚡ Bitcoin
+- 📚 Estudando JavaScript e Node JS
+- ⚡ Bitcoin
 ##
 <div align="center">
   <a href="https://github.com/vitorgitlima">
