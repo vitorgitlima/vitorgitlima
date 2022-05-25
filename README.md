@@ -1,6 +1,6 @@
 ## Vitor Lima
 - ☕ Desenvolvedor Java
-- 📚 Estudando JavaScript e Node JS
+- 📚 Programming Language
 - ⚡ Bitcoin
 ##
 <div align="center">
