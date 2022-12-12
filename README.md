@@ -1,5 +1,5 @@
 ## Vitor Lima
-- ☕ Desenvolvedor Java
+- ☕ Java - Spring - Microservices - Docker - Apache Kafka - Kubernetes - Devops
 - 📚 Programming Language
 - ⚡ Bitcoin
 ##
