@@ -1,5 +1,5 @@
 ## Vitor Lima
-- ☕ Java - Spring - Microservices - Docker - Apache Kafka - Kubernetes - Devops
+- ☕ Java - TypeScript - Spring - Microservices - Docker - Apache Kafka - Kubernetes - Devops
 - ⚡ Bitcoin
 - Analista de Sistemas | Desenvolvedor back-end | Java | DevOps | Spring Boot | Microservices | Docker | Apache Kafka - Angular
 
