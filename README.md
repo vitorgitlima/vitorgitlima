@@ -1,5 +1,5 @@
 ## Vitor Lima
-- ☕ Java - TypeScript - Spring - Microservices - Docker - Apache Kafka - Kubernetes - Devops - SRE
+- ☕ Java - TypeScript - Spring - Microservices - Docker - Apache Kafka - Kubernetes - Devops
 - ⚡ Bitcoin
 
 ##
