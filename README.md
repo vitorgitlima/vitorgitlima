@@ -5,8 +5,8 @@
 ##
 <div align="center">
   <a href="https://github.com/vitorgitlima">
-  <img height="180em" src="https://github-readme-stats-git-main-vitorliima18-gmailcoms-projects.vercel.app/api?username=vitorgitlima&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-main-vitorliima18-gmailcoms-projects.vercel.app/api/top-langs/?username=vitorgitlima&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorgitlima&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorgitlima&layout=compact&langs_count=7&theme=outrun"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
